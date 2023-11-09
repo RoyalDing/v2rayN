@@ -20,3 +20,6 @@ A GUI client for Windows, support [Xray core](https://github.com/XTLS/Xray-core)
 
 ## Telegram Channel
 [github_2dust](https://t.me/github_2dust)
+
+
+## 代理服务器，可以挂机场vpn啥的好像是
